@@ -1,16 +1,26 @@
-## Hi there 👋
+# Solygambas
 
-<!--
-**solygambas/solygambas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub User's stars](https://img.shields.io/github/stars/solygambas)](https://github.com/solygambas?tab=repositories&sort=stargazers) [![GitHub followers](https://img.shields.io/github/followers/solygambas)](https://github.com/solygambas?tab=followers)
 
-Here are some ideas to get you started:
+## 👋 About Solygambas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I am a **Freelancer** and **Remote Full-stack Developer** specializing in **Node.js, React, React Native, JavaScript, WordPress, PHP,** and **Python**. I'm passionate about creating innovative web solutions. **Let's create something amazing together!** 🚀
+
+## 🌐 Portfolio
+
+Check out my [**portfolio**](https://solygambas.github.io/) to see a showcase of my work and projects.
+
+## 📚 Blog Posts
+
+Explore my [**collection of articles**](https://www.onbusinessplan.com/) tailored for those beginning their web development journey. Discover tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
+
+## 📌 Other Profiles
+
+- [**CodePen**](https://codepen.io/solygambas): Showcasing front-end design and development projects.
+- [**Dribbble**](https://dribbble.com/solygambas): Sharing creative design work and inspiration.
+- [**Google Cloud Skills Boost**](https://bit.ly/googlecloudskills-solygambas): Demonstrating cloud skills and certifications.
+
+## 💬 Connect with Me
+
+- [**LinkedIn**](https://bit.ly/solygambas): Professional networking and updates.
+- [**Twitter**](https://twitter.com/solygambas): Follow for tech insights and updates.
