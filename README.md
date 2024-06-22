@@ -23,4 +23,4 @@ Explore my [**collection of articles**](https://www.onbusinessplan.com/) tailore
 ## 💬 Connect
 
 - [**LinkedIn**](https://bit.ly/solygambas): Open to business proposals and professional networking.
-- [**Twitter**](https://x.com/solygambas): Follow for tech insights and updates.
+- [**X (Twitter)**](https://x.com/solygambas): Follow for tech insights and updates.
