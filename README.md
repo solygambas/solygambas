@@ -1,6 +1,6 @@
 # Solygambas
 
-[![GitHub User's stars](https://img.shields.io/github/stars/solygambas)](https://github.com/solygambas?tab=repositories&sort=stargazers) [![GitHub followers](https://img.shields.io/github/followers/solygambas)](https://github.com/solygambas?tab=followers)
+[![Solygambas's GitHub stars](https://img.shields.io/github/stars/solygambas)](https://github.com/solygambas?tab=repositories&sort=stargazers "View Solygambas's GitHub stars") [![Solygambas's GitHub followers](https://img.shields.io/github/followers/solygambas)](https://github.com/solygambas?tab=followers "View Solygambas's GitHub followers")
 
 ## 👋 About
 
