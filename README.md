@@ -24,3 +24,7 @@ Explore my [**collection of articles**](https://www.onbusinessplan.com/) tailore
 
 - [**LinkedIn**](https://bit.ly/solygambas): Open to business proposals and professional networking.
 - [**X (Twitter)**](https://x.com/solygambas): Follow for tech insights and updates.
+
+## 💖 Support
+
+If you find my projects helpful or interesting, please consider starring the repositories. It's a simple gesture that helps to boost the visibility of the projects and show appreciation for the effort put into creating them. Additionally, if you'd like to support my work further, you can [**become a sponsor**](https://github.com/sponsors/solygambas). Your support is greatly appreciated. Thank you!
