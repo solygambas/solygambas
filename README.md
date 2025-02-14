@@ -18,12 +18,12 @@ Explore my [**collection of articles**](https://www.onbusinessplan.com/) tailore
 
 - [**CodePen**](https://codepen.io/solygambas): Showcasing front-end design and development projects.
 - [**Dribbble**](https://dribbble.com/solygambas): Sharing creative design work and inspiration.
-- [**Google Cloud Skills Boost**](https://bit.ly/googlecloudskills-solygambas): Demonstrating cloud skills and certifications.
-- [**DeepLearning.AI**](https://bit.ly/deeplearningai-solygambas): Exploring machine learning and AI technologies.
+- [**Google Cloud Skills Boost**](https://www.onbusinessplan.com/googlecloudskills): Demonstrating cloud skills and certifications.
+- [**DeepLearning.AI**](https://www.onbusinessplan.com/deeplearningai): Exploring machine learning and AI technologies.
 
 ## 💬 Connect
 
-- [**LinkedIn**](https://bit.ly/solygambas): Open to business proposals and professional networking.
+- [**LinkedIn**](https://www.onbusinessplan.com/linkedin): Open to business proposals and professional networking.
 - [**X (Twitter)**](https://x.com/solygambas): Follow for tech insights and updates.
 
 ## 💖 Support
