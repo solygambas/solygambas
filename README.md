@@ -14,6 +14,13 @@ Check out my [**portfolio**](https://solygambas.github.io/) to see a showcase of
 
 Explore my [**collection of articles**](https://www.onbusinessplan.com/) tailored for those beginning their web development journey. Discover tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
 
+## 📘 Publications
+
+I’m the author of the two-volume series **_100 Projects in 100 Days – HTML, CSS & JavaScript_**, designed to help developers rapidly improve their front-end skills through hands-on, progressively challenging projects.
+
+- [**Volume 1: Essentials (Days 1–50)**](https://amzn.to/4g01whb)
+- [**Volume 2: Advanced (Days 51–100)**](https://amzn.to/4pSqAeq)
+
 ## 📌 Profiles
 
 - [**CodePen**](https://codepen.io/solygambas): Showcasing front-end design and development projects.
